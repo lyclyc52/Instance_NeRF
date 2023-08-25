@@ -19,7 +19,7 @@ Code is coming soon.
 <img src="imgs/main.png" width="830"/>
 
 ## Citation
-If you find NeRF-RPN useful in your research or refer to the provided baseline results, please star :star: this repository and consider citing :pencil::
+If you find Instance-NeRF useful in your research or refer to the provided baseline results, please star :star: this repository and consider citing :pencil::
 ```
 @inproceedings{instancenerf,
     title = {Instance Neural Radiacne Field},
