@@ -1,13 +1,13 @@
-# NeRF-RPN
+# Instance-NeRF
 [![arXiv](https://img.shields.io/badge/arXiv-2304.04395-f9f107.svg)](https://arxiv.org/abs/2304.04395) [![Youtube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=wW9Bme73coI) [<img src="https://img.shields.io/badge/Cite-BibTex-orange">](#citation)
 
-Instance Neural Radiance Field[Instance-NeRF, CVPR 2023].
+Instance Neural Radiance Field [Instance-NeRF, ICCV 2023].
 
-This will be the official pytorch implementation of [Instance-NeRF](https://arxiv.org/abs/2304.04395).
+This is the official PyTorch implementation of [Instance-NeRF](https://arxiv.org/abs/2304.04395).
 
-> [**Instance Neural Radiacne Field**](https://arxiv.org/abs/2211.11646)           
+> [**Instance Neural Radiacne Field**](https://arxiv.org/abs/2304.04395)           
 > Yichen Liu*, Benran Hu*, Junkai Huang*, Yu-Wing Tai, Chi-Keung Tang           
-> IEEE International Conference on Computer Vision (ICCV), 2023     
+> IEEE/CVF International Conference on Computer Vision (ICCV), 2023     
 > *\* indicates equal contribution*
 
 
@@ -24,7 +24,7 @@ If you find Instance-NeRF useful in your research or refer to the provided basel
 @inproceedings{instancenerf,
     title = {Instance Neural Radiacne Field},
     author = {Liu, Yichen and Hu, Benran and Huang, Junkai and Tai, Yu-Wing and Tang, Chi-Keung},
-    booktitle = {IEEE International Conference on Computer Vision (ICCV)},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     year = {2023}
 }
 ```
