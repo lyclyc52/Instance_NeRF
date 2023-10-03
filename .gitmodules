@@ -1,0 +1,6 @@
+[submodule "dependencies/RoIAlign.pytorch"]
+	path = dependencies/RoIAlign.pytorch
+	url = https://github.com/zymk9/RoIAlign.pytorch.git
+[submodule "torch-ngp"]
+	path = instance_nerf
+	url = https://github.com/zymk9/torch-ngp.git

@@ -1,0 +1,296 @@
+[
+  {
+    "front3d_category": "L-shaped Sofa",
+    "front3d_super_category": "Sofa",
+    "nyu40_name": "sofa",
+    "nyu40_id": 6
+  },
+  {
+    "front3d_category": "Ceiling Lamp",
+    "front3d_super_category": "Lighting",
+    "nyu40_name": "lamp",
+    "nyu40_id": 35
+  },
+  {
+    "front3d_category": "Lounge Chair / Book-chair / Computer Chair",
+    "front3d_super_category": "Chair",
+    "nyu40_name": "chair",
+    "nyu40_id": 5
+  },
+  {
+    "front3d_category": "Shelf",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "bookshelf",
+    "nyu40_id": 10
+  },
+  {
+    "front3d_category": "Coffee Table",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": "Loveseat Sofa",
+    "front3d_super_category": "Sofa",
+    "nyu40_name": "sofa",
+    "nyu40_id": 6
+  },
+  {
+    "front3d_category": "Three-Seat / Multi-seat Sofa",
+    "front3d_super_category": "Sofa",
+    "nyu40_name": "sofa",
+    "nyu40_id": 6
+  },
+  {
+    "front3d_category": "Lounge Chair / Cafe Chair / Office Chair",
+    "front3d_super_category": "Chair",
+    "nyu40_name": "chair",
+    "nyu40_id": 5
+  },
+  {
+    "front3d_category": "Drawer Chest / Corner cabinet",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  },
+  {
+    "front3d_category": "Lazy Sofa",
+    "front3d_super_category": "Sofa",
+    "nyu40_name": "sofa",
+    "nyu40_id": 6
+  },
+  {
+    "front3d_category": "Bed Frame",
+    "front3d_super_category": "Bed",
+    "nyu40_name": "bed",
+    "nyu40_id": 4
+  },
+  {
+    "front3d_category": "Dressing Table",
+    "front3d_super_category": "Table",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": "Barstool",
+    "front3d_super_category": "Chair",
+    "nyu40_name": "chair",
+    "nyu40_id": 5
+  },
+  {
+    "front3d_category": "Round End Table",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": "Single bed",
+    "front3d_super_category": "Bed",
+    "nyu40_name": "bed",
+    "nyu40_id": 4
+  },
+  {
+    "front3d_category": "Floor Lamp",
+    "front3d_super_category": "Lighting",
+    "nyu40_name": "lamp",
+    "nyu40_id": 35
+  },
+  {
+    "front3d_category": "Footstool / Sofastool / Bed End Stool / Stool",
+    "front3d_super_category": "Sofa",
+    "nyu40_name": "sofa",
+    "nyu40_id": 6
+  },
+  {
+    "front3d_category": "Kids Bed",
+    "front3d_super_category": "Bed",
+    "nyu40_name": "bed",
+    "nyu40_id": 4
+  },
+  {
+    "front3d_category": "Footstool / Sofastool / Bed End Stool / Stool",
+    "front3d_super_category": "Pier/Stool",
+    "nyu40_name": "chair",
+    "nyu40_id": 5
+  },
+  {
+    "front3d_category": "Desk",
+    "front3d_super_category": "Table",
+    "nyu40_name": "desk",
+    "nyu40_id": 14
+  },
+  {
+    "front3d_category": "Bar",
+    "front3d_super_category": "Table",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": "Classic Chinese Chair",
+    "front3d_super_category": "Chair",
+    "nyu40_name": "chair",
+    "nyu40_id": 5
+  },
+  {
+    "front3d_category": "Dining Table",
+    "front3d_super_category": "Table",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": null,
+    "front3d_super_category": "Bed",
+    "nyu40_name": "bed",
+    "nyu40_id": 4
+  },
+  {
+    "front3d_category": null,
+    "front3d_super_category": "Others",
+    "nyu40_name": "otherfurniture",
+    "nyu40_id": 39
+  },
+  {
+    "front3d_category": "Dining Chair",
+    "front3d_super_category": "Chair",
+    "nyu40_name": "chair",
+    "nyu40_id": 5
+  },
+  {
+    "front3d_category": "Bookcase / jewelry Armoire",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "bookshelf",
+    "nyu40_id": 10
+  },
+  {
+    "front3d_category": "Nightstand",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "nightstand",
+    "nyu40_id": 32
+  },
+  {
+    "front3d_category": "Children Cabinet",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  },
+  {
+    "front3d_category": "armchair",
+    "front3d_super_category": "Sofa",
+    "nyu40_name": "sofa",
+    "nyu40_id": 6
+  },
+  {
+    "front3d_category": "Bunk Bed",
+    "front3d_super_category": "Bed",
+    "nyu40_name": "bed",
+    "nyu40_id": 4
+  },
+  {
+    "front3d_category": "Three-Seat / Multi-person sofa",
+    "front3d_super_category": "Sofa",
+    "nyu40_name": "sofa",
+    "nyu40_id": 6
+  },
+  {
+    "front3d_category": "Sideboard / Side Cabinet / Console",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  },
+  {
+    "front3d_category": "Wine Cabinet",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  },
+  {
+    "front3d_category": "Pendant Lamp",
+    "front3d_super_category": "Lighting",
+    "nyu40_name": "lamp",
+    "nyu40_id": 35
+  },
+  {
+    "front3d_category": "Double Bed",
+    "front3d_super_category": "Bed",
+    "nyu40_name": "bed",
+    "nyu40_id": 4
+  },
+  {
+    "front3d_category": "Sideboard / Side Cabinet / Console Table",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  },
+  {
+    "front3d_category": "TV Stand",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  },
+  {
+    "front3d_category": "Chaise Longue Sofa",
+    "front3d_super_category": "Sofa",
+    "nyu40_name": "sofa",
+    "nyu40_id": 6
+  },
+  {
+    "front3d_category": "Sideboard / Side Cabinet / Console Table",
+    "front3d_super_category": "Table",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": "Wardrobe",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  },
+  {
+    "front3d_category": "Folding chair",
+    "front3d_super_category": "Chair",
+    "nyu40_name": "chair",
+    "nyu40_id": 5
+  },
+  {
+    "front3d_category": null,
+    "front3d_super_category": "Table",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": "King-size Bed",
+    "front3d_super_category": "Bed",
+    "nyu40_name": "bed",
+    "nyu40_id": 4
+  },
+  {
+    "front3d_category": "Dressing Chair",
+    "front3d_super_category": "Chair",
+    "nyu40_name": "chair",
+    "nyu40_id": 5
+  },
+  {
+    "front3d_category": "Tea Table",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": "Wine Cooler",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  },
+  {
+    "front3d_category": "Corner/Side Table",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "table",
+    "nyu40_id": 7
+  },
+  {
+    "front3d_category": "Shoe Cabinet",
+    "front3d_super_category": "Cabinet/Shelf/Desk",
+    "nyu40_name": "cabinet",
+    "nyu40_id": 3
+  }
+]

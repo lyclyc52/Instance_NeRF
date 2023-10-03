@@ -1,0 +1,213 @@
+1: person, thing
+2: bicycle, thing
+3: car, thing
+4: motorcycle, thing
+5: airplane, thing
+6: bus, thing
+7: train, thing
+8: truck, thing
+9: boat, thing
+10: traffic light, thing
+11: fire hydrant, thing
+12: stop sign, thing
+13: parking meter, thing
+14: bench, thing
+15: bird, thing
+16: cat, thing
+17: dog, thing
+18: horse, thing
+19: sheep, thing
+20: cow, thing
+21: elephant, thing
+22: bear, thing
+23: zebra, thing
+24: giraffe, thing
+25: backpack, thing
+26: umbrella, thing
+27: handbag, thing
+28: tie, thing
+29: suitcase, thing
+30: frisbee, thing
+31: skis, thing
+32: snowboard, thing
+33: sports ball, thing
+34: kite, thing
+35: baseball bat, thing
+36: baseball glove, thing
+37: skateboard, thing
+38: surfboard, thing
+39: tennis racket, thing
+40: bottle, thing
+41: wine glass, thing
+42: cup, thing
+43: fork, thing
+44: knife, thing
+45: spoon, thing
+46: bowl, thing
+47: banana, thing
+48: apple, thing
+49: sandwich, thing
+50: orange, thing
+51: broccoli, thing
+52: carrot, thing
+53: hot dog, thing
+54: pizza, thing
+55: donut, thing
+56: cake, thing
+57: chair, thing
+58: couch, thing
+59: potted plant, thing
+60: bed, thing
+61: dining table, thing
+62: toilet, thing
+63: tv, thing
+64: laptop, thing
+65: mouse, thing
+66: remote, thing
+67: keyboard, thing
+68: cell phone, thing
+69: microwave, thing
+70: oven, thing
+71: toaster, thing
+72: sink, thing
+73: refrigerator, thing
+74: book, thing
+75: clock, thing
+76: vase, thing
+77: scissors, thing
+78: teddy bear, thing
+79: hair drier, thing
+80: toothbrush, thing
+1: person, stuff
+2: bicycle, stuff
+3: car, stuff
+4: motorcycle, stuff
+5: airplane, stuff
+6: bus, stuff
+7: train, stuff
+8: truck, stuff
+9: boat, stuff
+10: traffic light, stuff
+11: fire hydrant, stuff
+12: stop sign, stuff
+13: parking meter, stuff
+14: bench, stuff
+15: bird, stuff
+16: cat, stuff
+17: dog, stuff
+18: horse, stuff
+19: sheep, stuff
+20: cow, stuff
+21: elephant, stuff
+22: bear, stuff
+23: zebra, stuff
+24: giraffe, stuff
+25: backpack, stuff
+26: umbrella, stuff
+27: handbag, stuff
+28: tie, stuff
+29: suitcase, stuff
+30: frisbee, stuff
+31: skis, stuff
+32: snowboard, stuff
+33: sports ball, stuff
+34: kite, stuff
+35: baseball bat, stuff
+36: baseball glove, stuff
+37: skateboard, stuff
+38: surfboard, stuff
+39: tennis racket, stuff
+40: bottle, stuff
+41: wine glass, stuff
+42: cup, stuff
+43: fork, stuff
+44: knife, stuff
+45: spoon, stuff
+46: bowl, stuff
+47: banana, stuff
+48: apple, stuff
+49: sandwich, stuff
+50: orange, stuff
+51: broccoli, stuff
+52: carrot, stuff
+53: hot dog, stuff
+54: pizza, stuff
+55: donut, stuff
+56: cake, stuff
+57: chair, stuff
+58: couch, stuff
+59: potted plant, stuff
+60: bed, stuff
+61: dining table, stuff
+62: toilet, stuff
+63: tv, stuff
+64: laptop, stuff
+65: mouse, stuff
+66: remote, stuff
+67: keyboard, stuff
+68: cell phone, stuff
+69: microwave, stuff
+70: oven, stuff
+71: toaster, stuff
+72: sink, stuff
+73: refrigerator, stuff
+74: book, stuff
+75: clock, stuff
+76: vase, stuff
+77: scissors, stuff
+78: teddy bear, stuff
+79: hair drier, stuff
+80: toothbrush, stuff
+81: banner, stuff
+82: blanket, stuff
+83: bridge, stuff
+84: cardboard, stuff
+85: counter, stuff
+86: curtain, stuff
+87: door-stuff, stuff
+88: floor-wood, stuff
+89: flower, stuff
+90: fruit, stuff
+91: gravel, stuff
+92: house, stuff
+93: light, stuff
+94: mirror-stuff, stuff
+95: net, stuff
+96: pillow, stuff
+97: platform, stuff
+98: playingfield, stuff
+99: railroad, stuff
+100: river, stuff
+101: road, stuff
+102: roof, stuff
+103: sand, stuff
+104: sea, stuff
+105: shelf, stuff
+106: snow, stuff
+107: stairs, stuff
+108: tent, stuff
+109: towel, stuff
+110: wall-brick, stuff
+111: wall-stone, stuff
+112: wall-tile, stuff
+113: wall-wood, stuff
+114: water-other, stuff
+115: window-blind, stuff
+116: window-other, stuff
+117: tree-merged, stuff
+118: fence-merged, stuff
+119: ceiling-merged, stuff
+120: sky-other-merged, stuff
+121: cabinet-merged, stuff
+122: table-merged, stuff
+123: floor-other-merged, stuff
+124: pavement-merged, stuff
+125: mountain-merged, stuff
+126: grass-merged, stuff
+127: dirt-merged, stuff
+128: paper-merged, stuff
+129: food-other-merged, stuff
+130: building-other-merged, stuff
+131: rock-merged, stuff
+132: wall-other-merged, stuff
+133: rug-merged, stuff
