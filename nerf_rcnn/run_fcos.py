@@ -405,7 +405,7 @@ class Trainer:
                     'epoch': epoch,
                     'iter': i,
                 })
-            return
+
     def output_proposals(self, scenes, proposals, scores, gt_boxes):
         output_path = os.path.join(self.args.save_path, 'proposals')
         os.makedirs(output_path, exist_ok=True)

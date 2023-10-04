@@ -3,7 +3,7 @@
 set -x
 set -e
 
-DATA_ROOT=/path/to/dataset/root
+DATA_ROOT=/disk1/yliugu/3dfront_mask_data_release
 
 python3 -u run_fcos.py \
 --mode train \
@@ -13,8 +13,7 @@ python3 -u run_fcos.py \
 --features_path ${DATA_ROOT}/features \
 --boxes_path ${DATA_ROOT}/metadata \
 --dataset_split ${DATA_ROOT}/dataset_split.json \
---save_path /path/to/output/folder \
---checkpoint /path/to/pretrained/weights \
+--save_path /disk1/yliugu/instance_nerf_release/nerf_rpn \
 --num_epochs 160 \
 --lr 3e-4 \
 --weight_decay 1e-3 \
@@ -31,3 +30,4 @@ python3 -u run_fcos.py \
 --nms_thresh 0.3 \
 --batch_size 4 \
 --gpus 0-3 \
+--wandb
