@@ -1,6 +1,12 @@
 [submodule "dependencies/RoIAlign.pytorch"]
 	path = dependencies/RoIAlign.pytorch
 	url = https://github.com/zymk9/RoIAlign.pytorch.git
+[submodule "dependencies/Mask2Former"]
+	path = dependencies/Mask2Former
+	url = https://github.com/facebookresearch/Mask2Former.git
+[submodule "dependencies/detectron2"]
+	path = dependencies/detectron2
+	url = https://github.com/facebookresearch/detectron2.git
 [submodule "torch-ngp"]
 	path = instance_nerf
 	url = https://github.com/zymk9/torch-ngp.git

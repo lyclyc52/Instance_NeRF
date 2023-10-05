@@ -22,7 +22,8 @@ wandb
 **/wandb
 *_data
 *_results
-*.sh
+*_lyc.sh
+ckpt
 
 **/build
 **/cuda_op/dist

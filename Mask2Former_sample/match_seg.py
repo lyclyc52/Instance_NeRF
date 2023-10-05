@@ -164,7 +164,7 @@ if __name__ == '__main__':
     parser = get_parser()
     args = parser.parse_args()
 
-    scenes = os.listdir(args.proj_dir)
+    scenes = os.listdir(args.seg_dir)
     scenes.sort()
     os.makedirs(args.out_dir, exist_ok=True)
 
