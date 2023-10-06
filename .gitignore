@@ -35,3 +35,5 @@ dependencies/RoIAlign.pytorch/*
 *.egg-info
 !coco_id_to_name.json
 !front3d_to_nyu40.json
+dependencies/Mask2Former
+dependencies/detectron2
