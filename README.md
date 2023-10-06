@@ -19,7 +19,7 @@ This is the official PyTorch implementation of [Instance-NeRF](https://arxiv.org
 
 First, clone this repo and the submodules.
 ```bash
-git clone https://github.com/hjk0918/NeRF_RCNN.git --recursive
+git clone https://github.com/lyclyc52/Instance_NeRF.git --recursive
 ```
 
 Ther are two submodules used in the repo:
