@@ -55,7 +55,7 @@ For step 4-5, please check the docs in [instance_nerf](https://github.com/zymk9/
 
 ### NeRF-RCNN 
 
-You can download our pre-trained models (NeRF-RPN and NeRF-RCNN model) [here] TODO. 
+You can download our pre-trained NeRF-RPN and NeRF-RCNN models [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yliugu_connect_ust_hk/EiAyN_I_coZDh_gUjH8_wDkBjhVWefZ26cP35bovIrxwWA?e=ZWOxyW). 
 
 To train from scratch, first you need to train a NeRF-RPN model. It is based on [NeRF-RPN](https://github.com/lyclyc52/NeRF_RPN/tree/main/nerf_rpn) and we disable the `--rotated_box` flag. 
 We provide sample training and testing shell scripts called `train/test_rpn/rcnn.sh` for NeRF-RPN and NeRF-RCNN under [nerf_rcnn](./nerf_rcnn) folder, 
