@@ -62,9 +62,7 @@ We provide sample training and testing shell scripts called `train/test_rpn/rcnn
 
 
 ## Dataset
-We extended the 3D-FRONT NeRF Dataset used in [NeRF-RPN](https://github.com/lyclyc52/NeRF_RPN) by increasing the number of scenes from ~250 to ~1k, adding instance labels for each object, as well as including 2D and 3D instance segmentation masks. We will soon upload the entire dataset.
-
-Currently, only a subset of the dataset which contains the scenes for evaluation in the paper is available.
+We extended the 3D-FRONT NeRF Dataset used in [NeRF-RPN](https://github.com/lyclyc52/NeRF_RPN) by increasing the number of scenes from ~250 to ~1k, adding instance labels for each object, as well as including 2D and 3D instance segmentation masks. The entire dataset we used for training is availible [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yliugu_connect_ust_hk/EmoTMwuZXnNCoe7Yi7PRBQQBi86oHNd2CWDMwsy1ZdwsDA?e=siHQNU).
 
 For training Instance-NeRF, as well as NeRF-RCNN on your custom datasets, please refer to both the [NeRF-RPN dataset creation](https://github.com/lyclyc52/NeRF_RPN/blob/main/data/README.md#nerf-rpn-dataset) and the [NeRF-RCNN training guide](https://github.com/hjk0918/NeRF_RCNN/tree/public_version/nerf_rcnn#nerf-rcnn-training).
 
