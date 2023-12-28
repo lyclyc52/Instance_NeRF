@@ -80,7 +80,7 @@ If you want to know more details, you can refer to this forked [BlenderProc repo
 If you find Instance-NeRF useful in your research or refer to the provided baseline results, please star :star: this repository and consider citing :pencil::
 ```
 @inproceedings{instancenerf,
-    title = {Instance Neural Radiacne Field},
+    title = {Instance Neural Radiance Field},
     author = {Liu, Yichen and Hu, Benran and Huang, Junkai and Tai, Yu-Wing and Tang, Chi-Keung},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
     year = {2023}
