@@ -1,0 +1,19 @@
+python3 -u run_rcnn.py \
+--mode "eval" \
+--rpn_type fcos \
+--backbone_type vgg_EF \
+--dataset_root /path/to/dataset_root \
+--dataset_split /path/to/dataset_root/dataset_split.json \
+--save_path /path/to/save \
+--rcnn_ckpt /path/to/checkpoint \
+--rpn_head_conv_depth 4 \
+--rpn_batch_size_per_mesh 256 \
+--rpn_pre_nms_top_n_test 2500 \
+--rpn_post_nms_top_n_test 2500 \
+--rpn_nms_thresh 0.3 \
+--RCNN_box_nms_thresh 0.15 \
+--RCNN_box_score_thresh 0.0 \
+--bbox_type aabb \
+--use_input_rois \
+--batch_size 4 \
+--gpus 0
