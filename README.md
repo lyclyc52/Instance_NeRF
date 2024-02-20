@@ -54,15 +54,15 @@ For step 4-5, please check the docs in [instance_nerf](https://github.com/zymk9/
 ## Inference 
 We provide an example to use our code.
 1. Create the [envirnoment](##Installation), download the [dataset](##Dataset) and the checkpoint of [NeRF-RCNN](###NeRF-RCNN)
-2. Predict the coarse 3D mask using the sample script [here](nerf_rcnn/inference.sh)
+2. Predict the coarse 3D mask using the sample script [here](./nerf_rcnn/inference.sh)
 3. Download the [NeRF training data](https://hkustconnect-my.sharepoint.com/personal/yliugu_connect_ust_hk/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fyliugu%5Fconnect%5Fust%5Fhk%2FDocuments%2FInstance%5FNeRF%5FData%2F3DFRONT%5Fdata%2Fnerf%5Fdata). Instance field is a scene-specific model so you only need to download the scenes you want here.
-The following insturctions are under [instance_nerf](instance_nerf) repo.
+The following insturctions are under [instance_nerf](https://github.com/zymk9/torch-ngp/tree/6be6af198f1092e8d75574727a030ae15e199fe8) repo.
 4. Train the NeRF model using the [sample script](./instance_nerf/README.md###nerf-training)
-5. Prepare masks following this [section](./instance_nerf/README.md###Mask-Preparationn). Basically, it contains three steps:
-   - Produce 2D instance segmentation masks by Mask2Former using this [sample code](./Mask2Former_sample/run_mask2former.py). The detailed instructions are in this [README](./Mask2Former_sample/README.md) 
-   - Produce 2D projected segmentation masks using this [script](instance_nerf/scripts/project_3d_masks.py)
-   - Match these 2D masks using this [sample code](./Mask2Former_sample/match_seg.py)
-6. Train the instance NeRF following this [section](./instance_nerf/README.mde#Instance-Field-Training##Usage###Instance-Field-Training)
+5. Prepare masks following the [Mask Preparation Section](https://github.com/zymk9/torch-ngp/tree/6be6af198f1092e8d75574727a030ae15e199fe8?tab=readme-ov-file#mask-preparation). Basically, it contains three steps:
+   - Produce 2D instance segmentation masks by Mask2Former using this [sample code](./Mask2Former_sample/run_mask2former.py). The detailed instructions are in this [README](./Mask2Former_sample/README.md) under this repo.
+   - Produce 2D projected segmentation masks. You can find the script under [our torch-ngp repo](https://github.com/zymk9/torch-ngp/blob/6be6af198f1092e8d75574727a030ae15e199fe8/scripts/project_3d_masks.py)
+   - Match these 2D masks using this [sample code](./Mask2Former_sample/match_seg.py) under this repo.
+6. Train the instance NeRF following the [Instance Field Inference section](https://github.com/zymk9/torch-ngp/tree/6be6af198f1092e8d75574727a030ae15e199fe8?tab=readme-ov-file#instance-field-inference) under our torch-ngp repo
 
 
 
