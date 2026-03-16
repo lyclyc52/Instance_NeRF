@@ -55,7 +55,7 @@ For step 4-5, please check the docs in [instance_nerf](https://github.com/zymk9/
 We provide an example to use our code.
 1. Create the [envirnoment](##Installation), download the [dataset](##Dataset) and the checkpoint of [NeRF-RCNN](###NeRF-RCNN)
 2. Predict the coarse 3D mask using the sample script [here](./nerf_rcnn/inference.sh)
-3. Download the [NeRF training data](https://hkustconnect-my.sharepoint.com/personal/yliugu_connect_ust_hk/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fyliugu%5Fconnect%5Fust%5Fhk%2FDocuments%2FInstance%5FNeRF%5FData%2F3DFRONT%5Fdata%2Fnerf%5Fdata). Instance field is a scene-specific model so you only need to download the scenes you want here.
+3. Download the [NeRF training data](https://huggingface.co/datasets/lyclyc52/Instance_NeRF/tree/main). Instance field is a scene-specific model so you only need to download the scenes you want here.
 The following insturctions are under [instance_nerf](https://github.com/zymk9/torch-ngp/tree/6be6af198f1092e8d75574727a030ae15e199fe8) repo.
 4. Train the NeRF model using the [sample script](./instance_nerf/README.md###nerf-training)
 5. Prepare masks following the [Mask Preparation Section](https://github.com/zymk9/torch-ngp/tree/6be6af198f1092e8d75574727a030ae15e199fe8?tab=readme-ov-file#mask-preparation). Basically, it contains three steps:
